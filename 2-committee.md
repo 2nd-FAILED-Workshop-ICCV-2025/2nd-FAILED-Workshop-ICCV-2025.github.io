@@ -11,7 +11,7 @@ nav: true
 <div style="display: flex; justify-content: center; flex-basis: 100%; gap: 20px;">
 
 <div style="flex: 1; min-width: 200px; max-width: 250px; padding: 20px; border: 1px solid #ddd; border-radius: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-<a href="vitopaolopastore.github.io" style="text-decoration: none; color: inherit;">
+<a href="https://vitopaolopastore.github.io" style="text-decoration: none; color: inherit;">
 <img src="https://vitopaolopastore.github.io/images/bio-photo.png" alt="Vito Paolo Pastore" width="150" height="150" style="border-radius: 50%;">
 <br><br>
 <strong>Vito Paolo Pastore</strong>
