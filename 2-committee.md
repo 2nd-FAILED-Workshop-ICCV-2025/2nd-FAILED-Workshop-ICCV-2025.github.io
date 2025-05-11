@@ -5,10 +5,13 @@ nav: true
 
 ## Organizing Committee
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center; gap: 20px;">
+
+<!-- Row 1: 3 members -->
+<div style="display: flex; justify-content: center; flex-basis: 100%; gap: 20px;">
 
 <div style="flex: 1; min-width: 200px; max-width: 250px; padding: 20px; border: 1px solid #ddd; border-radius: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-<a href="https://vitopaolopastore.github.io/" style="text-decoration: none; color: inherit;">
+<a href="[https://vitopaolopastore.github.io/](https://vitopaolopastore.github.io/images/bio-photo.png)" style="text-decoration: none; color: inherit;">
 <img src="/assets/images/rect3.png" alt="Vito Paolo Pastore" width="150" height="150" style="border-radius: 50%;">
 <br><br>
 <strong>Vito Paolo Pastore</strong>
@@ -31,6 +34,11 @@ nav: true
 </a>
 </div>
 
+</div>
+
+<!-- Row 2: 2 members -->
+<div style="display: flex; justify-content: center; flex-basis: 100%; gap: 20px; margin-top: 20px;">
+
 <div style="flex: 1; min-width: 200px; max-width: 250px; padding: 20px; border: 1px solid #ddd; border-radius: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 <a href="https://sites.google.com/site/jaegulchoo/" style="text-decoration: none; color: inherit;">
 <img src="https://lh4.googleusercontent.com/B00enoxNOgMvLLZ2ff11Qgeh0dhk2d5RmqL8E9xGJzRo5qHETyIBMvgFEBEYCvqQzDqV03e-mZjc-e5Wcm9A0bKlg104NntygosG0tnB-QaYcBpD=w1280" alt="Jaegul Choo" width="150" height="150" style="border-radius: 50%;">
@@ -45,6 +53,8 @@ nav: true
 <br><br>
 <strong>Vittorio Murino</strong>
 </a>
+</div>
+
 </div>
 
 </div>
