@@ -24,7 +24,7 @@ nav: true
         <div style="display: inline-block; text-align: center; padding-left: 80px;">
         <a href="https://sites.google.com/site/jaegulchoo/" style="text-decoration:none;">Jaegool Choo</a>
         <br>
-        <img src="https://lh3.googleusercontent.com/AuaLsPag4kOGHLLtUIMsqsj2MD5sbpjuuGAsLDEyuLrJfuJ94F58GHJx2aHMiArWdnvkuVpF5MmmV5P7uSpHV1kULxV8w8Qb1742xbJj-P6b5cI7=w1280" alt="Jaegool Choo" width="150" height="150" align="left">
+        <img src="[https://lh3.googleusercontent.com/AuaLsPag4kOGHLLtUIMsqsj2MD5sbpjuuGAsLDEyuLrJfuJ94F58GHJx2aHMiArWdnvkuVpF5MmmV5P7uSpHV1kULxV8w8Qb1742xbJj-P6b5cI7=w1280](https://lh4.googleusercontent.com/B00enoxNOgMvLLZ2ff11Qgeh0dhk2d5RmqL8E9xGJzRo5qHETyIBMvgFEBEYCvqQzDqV03e-mZjc-e5Wcm9A0bKlg104NntygosG0tnB-QaYcBpD=w1280)" alt="Jaegool Choo" width="150" height="150" align="left">
     </div>
         <div style="display: inline-block; text-align: center; padding-left: 60px;">
         <a href="https://www.vittoriomurino.com/" style="text-decoration:none;">Vittorio Murino</a>
