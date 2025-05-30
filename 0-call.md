@@ -29,7 +29,7 @@ We welcome the submissions of original and high-quality papers including (but no
 
 ## Submission portal
 
-* Submission site will be open soon 
+https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/FAILED
   
 ## Submission format
 
