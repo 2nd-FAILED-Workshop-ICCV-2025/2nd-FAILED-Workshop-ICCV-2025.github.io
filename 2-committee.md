@@ -54,7 +54,9 @@ nav: true
 <strong>Vittorio Murino</strong>
 </a>
 </div>
+</div>
 
+</div>
 
 ## Technical Committee
 
@@ -70,11 +72,3 @@ nav: true
 - Julian Wyatt, University of Oxford;
 - Paolo Angella, University of Genoa;
 - Gabriele Spadaro, University of Turin.
-
-</div>
-
-</div>
-
-## Technical Committee
-
-TBD.
