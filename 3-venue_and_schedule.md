@@ -10,4 +10,4 @@ nav: true
 
 ### Programme
 
-<img width="500" height="546" alt="Image" src="https://github.com/user-attachments/assets/80faf84a-0f1a-4712-a3ce-021d04f8983a" />
+<img width="500" height="546" alt="Image" src="https://github.com/user-attachments/assets/a41b85bc-7938-4ce8-acf9-b2440cf36498" />
