@@ -12,8 +12,9 @@ nav: true
 <img src="https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-ibmers-images.s3.us-east.cloud-object-storage.appdomain.cloud%2F2011&w=640&q=75" alt="Nathalie Baracaldo" width="150" height="150" style="border-radius: 50%;">
 <br><br>
 <strong>Nathalie Baracaldo</strong><br>
-<em>Talk Title: A 360 View: Large Language Models Safety State-of-the-art and Open Challenges <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/51e85cbf-975a-4ad3-bc09-71aff20001d7" />
-</em>
+<span style="font-size: 0.95rem; font-weight: 600; font-style: italic; color: #333;">
+Talk Title: A 360 View: Large Language Models Safety State-of-the-art and Open Challenges
+</span>
 </a>
 </div>
 
@@ -22,8 +23,9 @@ nav: true
 <img src="https://i1.rgstatic.net/ii/profile.image/273388132368387-1442192218748_Q512/Lin-Gu-3.jpg" alt="Lin Gu" width="150" height="150" style="border-radius: 50%;">
 <br><br>
 <strong>Lin Gu</strong><br>
-<em>Talk Title: From Explainability to Engagement: Human-Centric Transparent and Privacy-Aware AI <img width="1106" height="62" alt="image" src="https://github.com/user-attachments/assets/fc9a6460-0cbe-4750-9a28-b1e89f540ed5" />
-</em>
+<span style="font-size: 0.95rem; font-weight: 600; font-style: italic; color: #333;">
+Talk Title: From Explainability to Engagement: Human-Centric Transparent and Privacy-Aware AI
+</span>
 </a>
 </div>
 
@@ -32,9 +34,11 @@ nav: true
 <img src="https://jindonggu.github.io/assets/img/jindong.jpg" alt="Jindong Gu" width="150" height="150" style="border-radius: 50%;">
 <br><br>
 <strong>Jindong Gu</strong><br>
-<em>Talk Title: Responsible Visual Generative AI <img width="455" height="62" alt="image" src="https://github.com/user-attachments/assets/f6d149ab-5951-4708-9b9e-43ebee4a3574" />
-</em>
+<span style="font-size: 0.95rem; font-weight: 600; font-style: italic; color: #333;">
+Talk Title: Responsible Visual Generative AI
+</span>
 </a>
+</div>
 </div>
 
 </div>
